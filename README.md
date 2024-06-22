@@ -16,3 +16,6 @@ Intuitive and responsive user controls are a key feature of the Snake Game. Arro
 
 5. Game Over Screen and Restart Option:
 Upon the conclusion of a game, a game over screen is presented to the player. This screen displays a bold "Game Over!" message along with the player's final score. Furthermore, instructions to restart the game are provided, indicating that the spacebar can be pressed to initiate a new game. This feature enhances the user interface and allows for seamless transitions between gameplay sessions.
+
+# Contributions
+Contributions are welcome! If you have suggestions for improvements or new features, please open an issue or submit a pull request.
